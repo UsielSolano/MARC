@@ -103,8 +103,8 @@ const App = () => {
           
 
                   <button type="submit" className="submit-button">
-                    <span className="button-icon">📱</span>
-                    Enviar mensaje por WhatsApp Web
+                    <span className="button-icon"></span>
+                    Enviar mensaje por WhatsApp 
                     <span className="button-arrow">→</span>
                   </button>
                 </form>
