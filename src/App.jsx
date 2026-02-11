@@ -117,7 +117,7 @@ const App = () => {
                 <h4 className="info-title">Información de contacto</h4>
                 
                 <div className="info-item">
-                  <span className="info-icon">📞</span>
+                  
                   <div className="info-content">
                     <span className="info-label">Teléfono</span>
                     <span className="info-value">+52 312 109 4961</span>
@@ -125,7 +125,7 @@ const App = () => {
                 </div>
 
                 <div className="info-item">
-                  <span className="info-icon">⏰</span>
+                  
                   <div className="info-content">
                     <span className="info-label">Horario de atención</span>
                     <span className="info-value">Lun - Vie: 9:00 AM - 6:00 PM</span>
@@ -133,7 +133,7 @@ const App = () => {
                 </div>
 
                 <div className="info-item">
-                  <span className="info-icon">⚡</span>
+                  
                   <div className="info-content">
                     <span className="info-label">Tiempo de respuesta</span>
                     <span className="info-value">Menos de 30 minutos</span>
